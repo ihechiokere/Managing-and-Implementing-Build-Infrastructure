@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'ihechi agent 1'
+  name: 'ihechi'
 
 variables:
   solution: '**/*.sln'
